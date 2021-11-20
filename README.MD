@@ -1,4 +1,4 @@
-# Desafio 2 - Rocketseat Discover
+# Desafio 3 - Rocketseat Discover
 
 ## Sobre
 
